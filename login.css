@@ -1,0 +1,42 @@
+
+header{
+  height: 50px;
+}
+button{
+  background-color: #1ab020;
+  width: 100%;
+  color: white;
+  padding: 15px;
+  margin: 10px 0px;
+  border: none; 
+  cursor: pointer;
+}
+input[type=text], input[type=password], input[type=number] { 
+        width: 100%; 
+        margin: 8px 0;
+        padding: 12px 20px; 
+        display: inline-block; 
+        border: 2px solid green; 
+        box-sizing: border-box; 
+    }
+
+button:hover{
+  opacity: 0.5;
+}
+form{
+  border: 3px solid #f1f1f1;
+}
+.container{
+  padding: 20px;
+  float: right;
+  background-color: ghostwhite;
+  width: 300px;
+  margin-left: 800px;
+  margin-top: 100px;
+  margin-right: 200px;
+}
+#logo{
+  margin-left: 43.6%;
+  width: 150x;
+  height: 150px;
+}
